@@ -1,0 +1,12 @@
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\bin\Debug\B12017051082.exe.config
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\bin\Debug\B12017051082.exe
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\bin\Debug\B12017051082.pdb
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.csprojAssemblyReference.cache
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.AddProduct.resources
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.FrmProduct.resources
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.Login.resources
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.Properties.Resources.resources
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.csproj.GenerateResource.cache
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.csproj.CoreCompileInputs.cache
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.exe
+C:\Users\jxjsj\source\repos\B12017051082\B12017051082\B12017051082\obj\Debug\B12017051082.pdb
